@@ -1,0 +1,7 @@
+﻿  odb person.hxx
+  person-odb.cxx
+D:\tool\odb\libodb-2.4.0\odb\exception.hxx(19,49): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 struct“odb::exception”的基
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime_exception.h(48): message : 参见“std::exception”的声明
+D:\tool\odb\libodb-2.4.0\odb\exception.hxx(19): message : 参见“odb::exception”的声明
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\code\706\testdb\testDBHello\Debug\testDBHello.exe : fatal error LNK1120: 1 个无法解析的外部命令

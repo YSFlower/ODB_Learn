@@ -1,0 +1,2 @@
+^D:\CODE\706\TESTDB\TESTDB\TESTDB\FINGERPRINTDB.H
+odb.exe --std c++11 --database sqlite --generate-query --generate-schema FingerPrintDB.h

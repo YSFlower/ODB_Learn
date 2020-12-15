@@ -1,0 +1,12 @@
+﻿  Performing Custom Build Tools
+  FingerPrintDB-odb.cxx
+D:\tool\odb\libodb-2.4.0\odb\exception.hxx(19,49): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 struct“odb::exception”的基
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime_exception.h(48): message : 参见“std::exception”的声明
+D:\tool\odb\libodb-2.4.0\odb\exception.hxx(19): message : 参见“odb::exception”的声明
+  main.cpp
+D:\tool\odb\libodb-2.4.0\odb\exception.hxx(19,49): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 struct“odb::exception”的基
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime_exception.h(48): message : 参见“std::exception”的声明
+D:\tool\odb\libodb-2.4.0\odb\exception.hxx(19): message : 参见“odb::exception”的声明
+D:\code\706\testdb\testDB\testDB\main.cpp(30,31): warning C4101: “e”: 未引用的局部变量
+  正在生成代码...
+  testDB.vcxproj -> D:\code\706\testdb\testDB\Debug\testDB.exe
